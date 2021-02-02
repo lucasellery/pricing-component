@@ -1,3 +1,41 @@
-.h1 {
-  color: hsl(174, 77%, 80%);
+.headerContainer {
+  margin-top: 3.4rem !important;
+  background: url("../../assets/interactive-pricing-component-main/images/pattern-circles.svg")
+    top no-repeat !important;
+  width: 100% !important;
+  height: 100% !important;
+}
+
+.firstTitleContainer {
+  margin-top: 5vh !important;
+}
+
+.firstTitle {
+  font-family: "Manrope", sans-serif !important;
+  font-size: 1.3rem !important;
+  font-weight: 800 !important;
+  letter-spacing: 0.5px !important;
+  color: hsl(224, 19%, 27%) !important;
+}
+
+.subtitleContainer {
+  margin-top: 0.6rem !important;
+}
+
+.subtitleOne {
+  font-family: "Manrope", sans-serif !important;
+  color: hsl(225, 20%, 60%) !important;
+  font-size: 0.8rem !important;
+  font-weight: 400 !important;
+  letter-spacing: 0.5px !important;
+}
+
+.subtitleTwo {
+  margin-left: 10px !important;
+  margin-top: 0.2rem !important;
+  font-family: "Manrope", sans-serif !important;
+  color: hsl(225, 20%, 60%) !important;
+  font-size: 0.8rem !important;
+  font-weight: 400 !important;
+  letter-spacing: 0.5px !important;
 }
