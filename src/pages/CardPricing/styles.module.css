@@ -18,3 +18,12 @@
 
   text-transform: uppercase;
 }
+
+.containerSlider {
+  width: 100% !important;
+  margin-top: 0.625rem !important;
+}
+
+.slider {
+  color: hsl(174, 86%, 45%) !important;
+}
